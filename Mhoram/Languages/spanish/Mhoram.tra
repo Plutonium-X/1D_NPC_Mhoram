@@ -1,0 +1,32 @@
+@0    = ~Perdonad mi intromisión, pero busco a alguien muy importante y creo que sois vos.
+Dejad que me presente, soy Mhoram, un Poeta del Clan Dlan allá en el lejano Norte.~
+@1    = ~Es más que posible que mi nombre no os diga nada, pero quizás este otro si, soy, o por desgracia más bien fuí en tiempos pasados, un gran amigo y admirador de Gorion.~
+@2    = ~Es por su memoria que hago esto, vos debéis ser <CHARNAME>, he venido a ayudaros y a la vez ha solicitar vuestra ayuda.~
+@3    = ~Hablad entonces amigo mio, soy todo oídos.~
+@4    = ~Os estáis confundiendo, yo no soy <CHARNAME>.~
+@5    = ~Magnifico, veo el espíritu y la fuerza de Gorion en vos. Escuchadme bien, debéis tener cuidado.
+Muchos andan detrás de los Hijos de Bhaal y si mostrarais vuestros poderes en público la noticia se propagaría con demasiada rapidez para el gusto de cualquier persona sensata.~
+@6    = ~Se que en determinadas ocasiones no se podrá evitar, pero mientras sea posible debéis permanecer en el anonimato.~
+@7    = ~Además debo haceros una petición, en el Distrito de la Puerta he descubierto un gran mal, un liche. No se exactamente donde ya que mis pesquisas me orientan a la posada y ahí no le he encontrado, pero el liche existe y debe ser destruido.~
+@8    = ~Una vez hecho eso me uniré a vos, en recuerdo de Gorion y las veces que me salvó la vida os ayudare en todo lo que pueda.~
+@9    = ~Perfecto entonces, iremos al Distrito de la Puerta y acabaremos con el liche. Uníos a nosotros.~
+@10   = ~He encontrado a un nuevo compañero, se llama Mhoram y parece ser un antiguo compañero de Gorion.
+Es increíble todo lo que mi padre adoptivo ha hecho, no creo que llegue a conocer nunca por completo su pasado. De todas formas, Mhoram ha accedido a ayudarme y me ha encargado destruir a un liche en el Distrito de la Puerta.
+Según Mhoram todo apunta a la posada. Una vez hecho esto seré libre y él me ayudará.~
+@11   = ~Me temo que no puedo ayudaros, tengo cosas más importantes que hacer.~
+@12   = ~No creo confundirme, y desde luego muchos otros tampoco lo creerán. Hacéis demasiada ostentación de vuestro poder <CHARNAME> y eso es perjudicial.
+En cualquier caso podría ayudaros a cambio de un pequeño favor. ¿Seguiréis negando vuestra identidad?.~
+@13   = ~Tenéis razón ,amigo mio, hablad libremente pues.~
+@14   = ~No se de que me habláis, disculpadme...~
+@15   = ~Es una autentica lástima, creí percibir parte de la fuerza de Gorion en vos. Ya veo que no es así, muy bien me marcharé y no os volveré a molestar.
+Espero, más por la memoria de Gorion que por vos, que con el tiempo ganéis en sabiduría. Esto es una despedida, adiós.~
+@16   = ~¿Habremos de separarnos?. Os aviso, no os esperaré; múltiples peligros amenazan al equilibrio, y la Gran Música del Oran Mor me necesita~
+@17   = ~No, ha sido un error, volvamos a unir nuestras fuerzas.~
+@18   = ~Lo siento, Mhoram, pero ya no tengo espacio para vos en mi grupo.~
+@19   = ~Lo hemos conseguido, mi misión ha sido cumplida, a partir de este momento soy todo vuestro.~
+@20   = ~Hemos acabado con el liche del distrito de la Puerta y recuperado el Diastro, Mhoram dice que ya es libre de permanecer con nosotros, es un alivio saber que podremos contar con él en caso de necesidad.~
+@21   = ~Así sea, pues, pero recordad, la cautela es vuestra mejor arma. A sido un placer recordar los viejos tiempos con Gorion. Esto es una despedida, adiós.~
+@22   = ~Bien, por lo visto ha llegado la hora de separarnos. Guardare un buen recuerdo de nuestros viajes <CHARNAME>. Gracias por ayudarme a destruir al liche.~
+@23   = ~No, Mhoram, no deseo que os marchéis, seguid conmigo.~
+@24   = ~Ciertamente, ha sido bueno viajar con vos Mhoram. Espero que volvamos a encontrarnos pronto.~
+@25   = ~Yo también espero que volvamos a encontrarnos, habéis demostrado vuestra valía, esperare en la Posada de las Cinco Jarras vuestro regreso y la posibilidad de nuevas aventuras juntos.~

@@ -1,0 +1,40 @@
+@0    = ~Mhoram NPC~
+@1    = ~Mhoram~
+@2    = ~When you ask about his past MHORAM seems strangely thoughtful.
+Finally, he begins to speak and tells you of his astonishing contemplate a life of more than 100 years protecting the balance in Faerûn under the banner of the Guardians of the Night.
+Or rather the Oran Mor. Mhoram's voice exudes passion when talking about The Grand Rhythm, the perfect harmony that unravels and shapes the world. "We are all part of the Oran Mor, each and every one of us feed her beauty. Because we are alive and free, and freedom is born beauty." Mhoram has traveled and fought for more years than you bring in the world to preserve this harmony.
+It seems possible, but you feel that this harmony can be perceived by Mhoram and he seems to draw strength from it. "All power comes from freedom, and life itself is the greatest power. So life cannot exist without freedom, freedom exist to disappear, to spare the couple of beauties to serve.
+For now and forever, against gods or demons, plagues and calamities, the Night Watch are fighting"~
+@3    = ~Long Sword~
+@4    = ~Danzarina~
+@5    = ~This is Mhoram longsword. It has a strange appearance.~
+@6    = ~Few things have come to impress as much as the Mhoram's long sword. Danzarina is not a common weapon, not even a magical weapon despite its powerful abilities. Forged in a strange metal, this powerful sword fits the hand like a glove though Mhoram doubts whether anyone else could use it. In combat, a strange fluidity floods Mhoram and the weapon. When asked about it, he responds that this is a fragment of the miasmic Oran Mor, that he does not know how it arrived in his hands. He just remembers having been absorbed in his music, when some orcs suddenly attacked him, the sword was in his hand and he immediately mastered it.
+There is no argument about the nature of this sword, as the sword enables its user to feel his life within it. In combat, it is capable of fighting alone for 8 rounds three times a day. The benevolent nature of this sword also reaches its wearer, magically protecting him in such harmony with his surroundings that its wearer is immune to fear, confusion or being feebleminded.
+
+STATISTICS:
+
+Special abilities:
+  Danzarina can fight by itself for 8 rounds 3 times a day.
+  The bearer is immune to fear, confusion and feeblemindedness.
+  +4 Bonus to Armor Class
+
+Thac0: +4
+Damage: 1D8+4
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 0
+Proficiency: Longsword
+Type: One-Handed
+
+Usable by:
+  Elven Bards only.~
+@7    = ~Chainmail~
+@8    = ~Harmony~
+@9    = ~This is a strange coat of mail belonging to Mhoram~
+@10   = ~Bards of Clan Dlan have long revered the Final Harmony, the Oran Mor or the Grand Rhythm, with all their soul. Mhoram is not one of the first of bards of the clan who have decided to take an active part in their duty. It was for those revered warriors that Harmony was created long ago. This armor was forged from the knowledge of the clan's Elder bards, imbued with powerful magic. Harmony does not not prevent the casting or the execution of spells.
+
+Despite being extremely light, harmony protects its wearer as well, as the best kinds of Chainmail. If this is due to magic or the incredible art of the ancient bards, is something we will never know.
+
+Armor Class: 5
+Weight: 7
+Usable only by Elven Bards.~

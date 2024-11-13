@@ -1,0 +1,27 @@
+@0    = ~Pardonnez mon intrusion, mais je cherche quelqu'un de très important et il me semble que c'est vous. Laissez-moi me présenter, je suis Mhoram, le Poète du Clan Dlan du grand Nord.~
+@1    = ~Il est plus que probable que mon nom ne vous dise rien, mais peut-être que si. Je suis, ou malheureusement j'étais, dans les temps anciens, un grand ami et admirateur de Gorion.~
+@2    = ~C'est en sa mémoire que je fais cela. Vous devez être <CHARNAME>, je suis venu à la fois vous aider et solliciter votre aide.~
+@3    = ~Alors, parlez, mon ami. Je suis tout ouïe.~
+@4    = ~Vous vous êtes trompé. Je ne suis pas <CHARNAME>.~
+@5    = ~Magnifique, je vois l'esprit et la force de Gorion en vous. Écoutez-moi bien, vous devez être attentif. De nombreuses personnes sont sur la piste des enfants de Bhaal et si vous montrez vos pouvoirs en public, la nouvelle se propagera trop rapidement au goût d'une personne sensée.~ ~Magnifique, je vois l'esprit et la force de Gorion en vous. Écoutez-moi bien, vous devez être attentive. De nombreuses personnes sont sur la piste des enfants de Bhaal et si vous montrez vos pouvoirs en public, la nouvelle se propagera trop rapidement au goût d'une personne sensée.~
+@6    = ~Je sais qu'en de diverses occasions, vous ne pourrez pas l'éviter, mais tant que cela sera possible, vous devrez rester dans l'anonymat.~
+@7    = ~De plus, je dois vous soumettre une requête. Dans le district du Pont, j'ai découvert un grand péril : une liche. Je ne sais pas exactement où car mes recherches ne me l'ont pas encore indiqué et je ne l'ai pas encore trouvée mais cette liche existe et doit être détruite.~
+@8    = ~Ceci fait je me joindrai à vous, en souvenir de Gorion, et en échange de toutes les fois où il me sauva la vie, je vous aiderai autant que je le pourrai.~
+@9    = ~Parfait, alors. Nous irons au district du Pont et nous viendrons à bout de cette liche. Joignez-vous à moi.~
+@10   = ~J'ai trouvé un nouveau compagnon. Il se nomme Mhoram et dit avoir été un ancien compagnon de Gorion. 
+C'est incroyable tout ce que mon père adoptif a fait. Je ne crois pas que j'arriverai à connaître tout son passé. De toute façon, Mhoram a accepté de m'aider et m'a chargé de détruire une liche dans le district du Pont. Selon Mhoram, c'est là que nous la trouverons. Cela fait, celui-ci sera libre et il m'aidera.~
+@11   = ~Je crains que nous ne puissions vous aider, j'ai des choses plus importantes à faire.~
+@12   = ~Je ne pense pas me tromper, et je pense que personne n'est dupe là-dessus. Vous exhibez trop vos pouvoirs, <CHARNAME>, et cela est préjudiciable.  Dans certains cas, je pourrais vous aider en l'échange d'une petite faveur. Renieriez-vous votre identité ?~
+@13   = ~Vous avez raison, mon ami. Hé bien parlez.~
+@14   = ~Je ne sais pas de quoi vous parlez. Désolé...~
+@15   = ~C'est vraiment dommage. J'ai cru percevoir une partie de la force de Gorion en vous. Mais je vois que je suis dans l'erreur. Très bien, je vais m'en aller et ne vous ennuierai plus. J'espère, plus pour la mémoire de Gorion que pour vous, qu'avec le temps vous gagnerez en sagesse. Je prends donc congé. Au revoir.~
+@16   = ~Allons-nous devoir nous séparer ? Je vous préviens, je ne vous attendrai pas. De nombreux dangers menacent l'équilibre, et la grande musique de l'Oran Mor a besoin de moi.~
+@17   = ~Non, c'était une erreur. Réunissons nos forces.~
+@18   = ~Je regrette, Mhoram, mais je n'ai pas de place pour vous dans mon groupe.~
+@19   = ~Nous avons réussi, ma mission a été accomplie. À partir de maintenant, je suis tout à vous.~
+@20   = ~Nous en avons terminé avec la liche du district du Pont et récupéré le Diastro. Mhoram dit que désormais il est libre de rester avec nous. C'est un soulagement de savoir que nous pourrons compter sur lui en cas de besoin.~
+@21   = ~Qu'il en soit ainsi. Mais rappelez-vous de ceci : la précaution est votre meilleure arme. Cela fut un plaisir de se souvenir du temps passé avec Gorion. Je prends donc congé. Au revoir.~
+@22   = ~Hé bien, à ce que je vois, l'heure de nous séparer est venue. Je garderai un bon souvenir de nos voyages, <CHARNAME>. Merci de m'avoir aider à détruire cette liche.~
+@23   = ~Non, Mhoram. Je ne veux pas que vous partiez. Restez avec moi.~
+@24   = ~Certainement. Cela fut agréable de voyager en votre compagnie, Mhoram. J'espère que nous nous reverrons bientôt.~
+@25   = ~J'espère moi aussi que nous nous reverrons. Vous avez démontré votre valeur. J'attendrai votre retour à la taverne des Cinq Chopes, et la possibilité de vivre de nouvelles aventures avec vous.~

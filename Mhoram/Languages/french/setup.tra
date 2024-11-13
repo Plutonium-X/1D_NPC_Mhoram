@@ -1,0 +1,97 @@
+@0    = ~PNJ Mhoram~
+@1    = ~Mhoram~
+@2    = ~Quand vous l'interrogez sur son passé, Mhoram semble extrêmement pensif. Finalement, il commence à parler et vous contemplez, abasourdi, une vie de 100 ans passée à protéger l'équilibre de Féérune sous l'uniforme des Gardiens de la Nuit. Ou plus précisément, celui de l'Oran Mor. La voix de Mhoram est chargée de passion quand il parle de la Grande Musique, l'harmonie parfaite qui anime et donne forme au monde. « Nous faisons tous partie de l'Oran Mor, tous et chacun d'entre nous alimentons sa beauté. Parce que nous sommes vivants et que nous sommes libres, et de la liberté naît la beauté ». Mhoram a voyagé et combattu durant plus d'années que tous ceux que  vous connaissez, pour préserver ladite harmonie. Vous ne savez pas comment, mais vous avez la sensation que Mhoram peut percevoir cette harmonie, et tirer sa force d'elle. « Tout pouvoir naît de la liberté, et la vie même est le plus important de tous ces pouvoirs. Pour cela, rien ne peut exister sans liberté. Nous existons pour que la liberté ne disparaisse pas, pour préserver la plus grande des beautés, pour la servir. Maintenant et à jamais, face aux dieux et aux démons, aux fléaux et aux calamités, nous, les Gardiens de la nuit, combattons. »~
+@3    = ~Épée longue~
+@4    = ~Petite Danseuse~
+@5    = ~C'est l'épée longue de Mhoram. Elle a un aspect étrange.~
+@6    = ~Peu de choses ont réussi à vous impressionner autant que l'épée longue de Mhoram. Petite Danseuse n'est pas une arme courante, car les pouvoirs magiques qu'elle renferme sont hors du commun. Forgée dans un étrange métal, cette puissante épée s'ajuste à la main de Mhoram comme un gant et vous vous doutez que personne d'autre que lui ne peut l'utiliser. En combat, une étrange placidité envahit Mhoram quand il la porte. Quand vous l'interrogez sur elle, il vous répond qu'il s'agit d'un infime fragment d'Oran Mor. Il ne sait pas comment elle est entrée en sa possession, il se rappelle seulement d'avoir été absorbé par la musique quand soudainement il avait été attaqué par des orcs. L'épée était déjà dans sa main et il perçut immédiatement ses capacités. 
+Il n'y a pas de discussion possible sur la nature de cette épée, seulement qu'elle s'anime, qu'elle est capable de combattre seule durant 8 rounds trois fois par jour. La nature bénéfique de cette épée apporte également à son porteur une protection magique, de sorte qu'il est en harmonie avec ce qui l'entoure, ce qui l'immunise à la peur, à la confusion ou à l'obstination bornée.
+
+PARAMÈTRES :
+
+Capacités spéciales :
+  Petite Danseuse peut combattre elle-même durant 8 rounds 3 fois par jour
+  Le porteur est immunisé à la peur, à la confusion et à l'obstination bornée
+  Bonus de +4 à la CA 
+
+TAC0 : +4
+Dégâts : 1D8 +4
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 0
+Type de compétence : épée longue
+Type : arme à 1 main
+
+Utilisable par :
+ les bardes demi-elfes~
+@7    = ~Cotte de mailles~
+@8    = ~Harmonie~
+@9    = ~C'est une étrange cotte de mailles appartenant à Mhoram.~
+@10   = ~Durant longtemps, les bardes du Clan Dlan ont servi l'Harmonie Ultime, l'Oran Mor ou la Grande Musique, de toute leur âme. Mhoram n'est pas le premier barde du Clan Dlan qui a décidé de prendre une part active dans sa protection. Pour ces guerriers valeureux fut créée il y a longtemps de cela Harmonie. Cette armure fut forgée à partir des connaissances des Anciens Bardes du Clan, imbibée d'une puissante magie, Harmonie ne gêne pas le mouvement ni l'exécution de coups. 
+En outre de son extrême légèreté, Harmonie protège son porteur comme la meilleure des cottes de mailles. Personne ne sait si cela est dû à la magie ou à l'incroyable savoir des Anciens Bardes.
+
+Classe d'Armure : 5
+Poids: 7
+Utilisable uniquement par :
+ les bardes demi-elfes.~
+
+
+// WeiDU prompts
+@-1000= "Le mod %TP2_FILE_NAME% contient"
+@-1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@-1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@-1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@-1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@-1005= "a"
+
+@-1006= "Installer le composant ["
+@-1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@-1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@-1009= "Entrez une partie du nom du module : "
+
+@-1010= "Reinstallation du composant ["
+@-1011= "] "
+@-1012= "Reinstallation dans la langue"
+
+@-1013= "Suppression de l'ancienne installation de ["
+@-1014= "] au prealable..."
+@-1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@-1016= "Installation en cours"
+@-1017= "ERREUR pendant l'installation de ["
+@-1018= "], retour a l'etat anterieur"
+@-1019= "INSTALLATION REUSSIE"
+@-1020= "Saute"
+@-1021= "Suppression de ["
+@-1022= "] (composant #"
+@-1023= ")"
+@-1024= "SUPPRESSION REUSSIE DE ["
+@-1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@-1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@-1027= " (installe actuellement)"
+
+@-1028= "Souhaitez-vous afficher les composants de ["
+@-1029= "] ?
+[Y]Oui, [N]on? "
+
+@-1030= "] ?
+choisir un parmi :"
+@-1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@-1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@-1033= "INSTALLATION AVEC DES ALERTES "
+@-1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@-1035= "Dans la langue"
+@-1036 = "Saute le GROUPE ["
+@-1037 = "] pour cause d'absence des pre-requis." 

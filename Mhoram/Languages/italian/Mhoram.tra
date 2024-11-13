@@ -1,0 +1,28 @@
+@0    = ~Perdona la mia intrusione, ma sto cercando qualcuno molto importante e credo che sia tu.
+Lascia che mi presenti, io sono Mhoram, un poeta proveniente da Clan Dlan nel lontano nord.~
+@1    = ~Probabilmente il mio nome non ti dice nulla. Ma forse se ti dicessi che io sono, o meglio sono stato in passato, un grande amico di Gorion forse ti potrà aiutare a fidarti di me.~
+@2    = ~E' in sua memoria che faccio tutto questo, tu devi essere <CHARNAME>, io sono venuto ad aiutarti e nello stesso tempo a chiederti aiuto.~
+@3    = ~Parla allora, amico mio, sono tutto orecchi.~
+@4    = ~Ti stai sbagliando, io non sono <CHARNAME>.~
+@5    = ~Stupendo, rivedo lo spirito e la forza di Gorion in te. Ascoltami bene, devi fare attenzione. Per prima cosa voglio darti un consiglio: molti stanno andando dietro il cammino del Figlio di Bhaal e se mostrerai i tuoi poteri in pubblico, la notizia si spargerà rapidamente per il piacere di ogni persona sensata.~
+@6    = ~So che in alcuni casi tutto ciò non può essere evitato, ma devi cercare di rimanere anonimo il più possibile.~
+@7    = ~Inoltre devo chiederti una cosa. Nel quartiere delle Porte della Città, ho scoperto una grande malvagità, un Lich. Non so esattamente dove si trovi, le mie ricerche conducono alla locanda della Gru Zoppa, anche se là a prima vista non ho trovato nulla, ma sono sicuro che il Lich esiste e deve essere distrutto.~
+@8    = ~Una volta fatto tutto ciò, se vuoi mi unirò a te, in ricordo di Gorion e della volta che mi salvò la vita, ti aiuterò in qualsiasi cosa potrò.~
+@9    = ~Perfetto. Allora andremo al quartiere delle Porte della Città e sconfiggeremo questo Lich. Unisciti a noi, allora.~
+@10   = ~Ho trovato un nuovo compagno, un bardo che si chiama Mhoram e sembra essere un vecchio amico di Gorion. E' sorprendente quello che il mio padre adottivo ha fatto e conosciuto durante la sua vita, credo che non potrò mai conoscere tutto il suo passato. Comunque, Mhoram ha accettato di aiutarmi e mi ha informato che c'é un Lich da distruggere al Quartiere delle Porte della Città. Secondo Mhoram, tutto porterebbe alla locanda della Gru Zoppa. Una volta fatto tutto, sarò libero e lui potrà aiutarmi.~
+@11   = ~Temo di non poterti aiutare, ho cose più importanti da fare.~
+@12   = ~Non credo di essermi sbagliato, e sicuramente anche altri non lo crederebbero. Emani molti poteri <CHARNAME>, e ciò può danneggiarti a lungo andare. Ad ogni modo, potrei aiutarti in cambio di un piccolo favore. Allora cosa hai deciso? Continui a negare la tua identità?~
+@13   = ~Hai ragione, amico mio, parla liberamente, allora.~
+@14   = ~Non voglio parlare con te, scusami, ora devo andare...~
+@15   = ~E' un vero peccato. Credevo di percepire in te parte della forza di Gorion. Ma vedo che non è così, beh ora ti lascio e non ti disturberò più. Aspero, per il rispetto del ricordo che ho di Gorion, che tu magari possa con il temo guadagnare un po' più di saggezza. Ora ti saluto. Arrivederci.~
+@16   = ~Ci separiamo? Ti avverto, non ti aspetterò. Molti pericoli minacciano l'equilibrio, e il Grande Ritmo dell'Oran Mor ha bisogno di me.~
+@17   = ~No, mi sono sbagliato, é stato un errore, uniamo di nuovo le nostre forze.~
+@18   = ~Mi dispiace Mhoram, ma non c'é un'altro posto per te nel mio gruppo.~
+@19   = ~Ce l'abbiamo fatta, il Lich è stato sconfitto, ora la mia missione é compiuta. Da questo momento sono ai tuoi comandi.~
+@20   = ~Abbiamo distrutto il  Lich al Quartiere delle Porte della Città e recuperato la Daystar. Mhoram ha detto che é libero di rimanere con me. E' un sollievo sapere che potrò contare su di lui tutte le volte che ne avrò bisogno.~
+@21   = ~Così sia, ma ricorda, la saggezza é la parte migliore del valore. E' stato un piacere ricordare i vecchi tempi passati con Gorion. Ora vado. Arrivederci.~
+@22   = ~Beh, é arrivata l'ora di separarci. Mi ricorderò con piacere il nostro viaggio <CHARNAME>. Ti ringrazio per avermi aiutato a distruggere il Lich.~
+@23   = ~No Mhoram, non voglio che ci separiamo, continua a viaggiare con me.~
+@24   = ~E' stato un piacere viaggiare con te Mhoram. Spero che ci incontreremo presto.~
+@25   = ~Anche io spero di rincontrarti, potrei ancora esserti utile. Io starò alla Taverna dei Cinque Boccali se vorrai venire a trovarmi o vorrai viaggiare di nuovo insieme a me.~
+
