@@ -67,20 +67,31 @@ COMPILE ~mhoram\mhoram2.d~
 COPY ~mhoram\innata1.spl~ ~override\innata1.spl~
 COPY ~mhoram\innata2.spl~ ~override\innata2.spl~
 COPY ~mhoram\innata3.spl~ ~override\innata3.spl~
-EXTEND_BOTTOM ~ar0511.bcs~ ~mhoram\añado_mhoram.bcs~
-APPEND ~ACTION.IDS~ 
-~31 SpellRES(S:RES*,O:Target*)
-95 SpellPointRES(S:RES*,P:Target*)
-113 ForceSpellRES(S:RES*,O:Target)
-114 ForceSpellPointRES(S:RES*,P:Target)
-160 ApplySpellRES(S:RES*,O:Target)
-181 ReallyForceSpellRES(S:RES*,O:Target)
-191 SpellNoDecRES(S:RES*,O:Target*)
-192 SpellPointNoDecRES(S:RES*,P:Target*)
-240 ReallyForceSpellDeadRES(S:RES*,O:Target)
-318 ForceSpellRangeRES(S:RES*,O:Target)
-319 ForceSpellPointRangeRES(S:RES*,P:Target)
-337 ReallyForceSpellPointRES(S:RES*,P:Target*)~
+EXTEND_BOTTOM ~ar0511.bcs~ ~mhoram\aÃ±ado_mhoram.bcs~
+APPEND ~ACTION.IDS~ ~31 SpellRES(S:RES*,O:Target*)~
+             UNLESS ~31 SpellRES(S:RES\*,O:Target\*)~
+APPEND ~ACTION.IDS~ ~95 SpellPointRES(S:RES*,P:Target*)~
+             UNLESS ~95 SpellPointRES(S:RES\*,P:Target\*)~
+APPEND ~ACTION.IDS~ ~113 ForceSpellRES(S:RES*,O:Target)~
+             UNLESS ~113 ForceSpellRES(S:RES\*,O:Target)~
+APPEND ~ACTION.IDS~ ~114 ForceSpellPointRES(S:RES*,P:Target)~
+             UNLESS ~114 ForceSpellPointRES(S:RES\*,P:Target)~
+APPEND ~ACTION.IDS~ ~160 ApplySpellRES(S:RES*,O:Target)~
+             UNLESS ~160 ApplySpellRES(S:RES\*,O:Target)~
+APPEND ~ACTION.IDS~ ~181 ReallyForceSpellRES(S:RES*,O:Target)~
+             UNLESS ~181 ReallyForceSpellRES(S:RES\*,O:Target)~
+APPEND ~ACTION.IDS~ ~191 SpellNoDecRES(S:RES*,O:Target*)~
+             UNLESS ~191 SpellNoDecRES(S:RES\*,O:Target\*)~
+APPEND ~ACTION.IDS~ ~192 SpellPointNoDecRES(S:RES*,P:Target*)~
+             UNLESS ~192 SpellPointNoDecRES(S:RES\*,P:Target\*)~
+APPEND ~ACTION.IDS~ ~240 ReallyForceSpellDeadRES(S:RES*,O:Target)~
+             UNLESS ~240 ReallyForceSpellDeadRES(S:RES\*,O:Target)~
+APPEND ~ACTION.IDS~ ~318 ForceSpellRangeRES(S:RES*,O:Target)~
+             UNLESS ~318 ForceSpellRangeRES(S:RES\*,O:Target)~
+APPEND ~ACTION.IDS~ ~319 ForceSpellPointRangeRES(S:RES*,P:Target)~
+             UNLESS ~319 ForceSpellPointRangeRES(S:RES\*,P:Target)~
+APPEND ~ACTION.IDS~ ~337 ReallyForceSpellPointRES(S:RES*,P:Target*)~
+             UNLESS ~337 ReallyForceSpellPointRES(S:RES\*,P:Target\*)~
 BUT_ONLY
 APPEND ~PDIALOG.2DA~ //SoA version
 ~MHORAM       MHORAM             MHORAM            MHORAM~
