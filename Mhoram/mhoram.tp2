@@ -1,7 +1,7 @@
 BACKUP ~mhoram\backup~
 AUTHOR ~aimainahikari@hotmail.com~
 
-VERSION ~v2.4~
+VERSION ~v2.5~
 
 ALWAYS
  ACTION_DEFINE_ARRAY tra_reload BEGIN setup END
@@ -101,3 +101,4 @@ APPEND ~pdialog.2da~ //ToB version
 ~MHORAM       MHORAM             MHORAM            MHORAM         MHORAM             MHORAM                MHORAM                MHORAM~
 UNLESS ~MHORAM~
 IF ~25POST~
+
