@@ -1,14 +1,14 @@
 PNJ Mhoram
 
-Ce mod vous permettra de jouer avec un nouveau personnage :
-Mhoram, un poète du Nord qui cherche à croiser votre destin d'enfant de Bhaal. 
+Ce mod vous permettra de jouer avec un nouveau personnageÂ :
+Mhoram, un poÃ¨te du Nord qui cherche Ã  croiser votre destin d'enfant de Bhaal. 
 
-- Idée: Garth el Tuerto
+- IdÃ©e: Garth el Tuerto
 - Conception : Mhoram
-- Programmation et développement : Mhoram
+- Programmation et dÃ©veloppement : Mhoram
 - Traduction en anglais par  Lollorian
-- Traduction en français par Althéa (des d'Oghmatiques)
-- Vérification du codage par White Agnus
+- Traduction en franÃ§ais par AlthÃ©a (des d'Oghmatiques)
+- VÃ©rification du codage par White Agnus
 - Contact: http://www.clandlan.net/foros/index.php?showforum=9
 - Web: http://corellon.clandlan.net/index.php?page=corellon/bgiwd/MhoNPC
 
@@ -22,14 +22,14 @@ Version 2
 - Corrected English translation by White Agnus
 
 Version 2.1
-- Added missing añado_mhoram.baf and añado_mhoram.bcs
+- Added missing aÃ±ado_mhoram.baf and aÃ±ado_mhoram.bcs
 - Moved mhoram.tp2 into the mod folder
 - Added Readme_Mhoram.txt
 - Added VERSION-flag
 - Updated to WeiDU v211
 
 Version 2.2
-- Added French translation by Althéa (of the d'Oghmatiques)
+- Added French translation by AlthÃ©a (of the d'Oghmatiques)
 - Updated to WeiDU v226
 
 Version 2.3
@@ -38,3 +38,7 @@ Version 2.3
 Version 2.4
 - Added BG2EE and EET compatibility
 - Corrected Sword (no protection for confusion/terror)
+
+Version 2.5
+ - Code updated by Selphira.
+
