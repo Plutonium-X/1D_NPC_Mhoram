@@ -33,8 +33,11 @@ LANGUAGE ~Francais (par Althea)~
 LANGUAGE ~Italian~
 	 ~italian~
 	 ~mhoram/Languages/italian/setup.tra~
-	 
-	 
+
+LANGUAGE ~Schinese~
+	 ~schinese~
+	 ~mhoram/Languages/schinese/setup.tra~
+
 BEGIN @0
 
 ACTION_IF GAME_IS ~TOB BGT~ THEN BEGIN 
